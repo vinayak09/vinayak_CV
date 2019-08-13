@@ -1,0 +1,96 @@
+body{
+  text-align: center;
+  font-size: auto;
+  color: #40514E;
+
+}
+p{
+  line-height: 2;
+}
+
+h1{
+  font-family: 'Dosis', sans-serif;
+  font-size: 5.625rem;
+  margin-top: 50px;
+  color: #66BFBF;
+
+
+}
+h2{
+  font-weight: normal;
+  font-size: 2.5rem;
+  color: #66BFBF;
+  padding-bottom: 10px;
+}
+h3{
+  color: #11999E;
+}
+.my-description{
+  width: 30%;
+  margin: auto;
+}
+.middle-container{
+  padding: 100px 0;
+}
+.bottom-container{
+  background-color:#66BFBF;
+  padding: 50px 0 20px;
+}
+.footer-link{
+  color: #11999E;
+}
+
+.skill-row{
+  width: 50%;
+  margin: 100px auto 100px auto;
+  text-align: left;
+  line-height: 2;
+}
+.top-container{
+  position: relative;
+  background-color:#EAF6F6;
+  padding-top: 100px;
+
+}
+.top-cloud{
+  position: absolute;
+  right: 300px;
+  top: 40px;
+}
+.bottom-cloud{
+  position: absolute;
+  left: 250px;
+  bottom: 300px;
+}
+hr{
+  border: dotted #EAF6F6 6px;
+  border-bottom: none;
+  width: 4%;
+  margin: 100px auto;
+}
+
+.gear{
+  width: 25%;
+  float: left;
+  margin-right:30px;
+}
+.car{
+  width: 25%;
+  float: right;
+  margin-left:30px;
+}
+a{
+  color: #11999E;
+  font-family: 'Dosis', sans-serif;
+  margin: 10px 20px;
+  text-decoration: none;
+
+}
+a:hover{
+  color: #EAF6F6;
+}
+.copy-right{
+  color: #EAF6F6;
+  font-size: 0.75rem;
+  padding: 20px 0;
+}
